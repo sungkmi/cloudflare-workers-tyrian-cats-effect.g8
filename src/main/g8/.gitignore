@@ -1,0 +1,23 @@
+# sbt
+/target/
+/frontend/target/
+/worker/target/
+/shared/target/
+/project/target/
+/project/project/
+/.bsp/
+/.metals/
+/.vscode/
+/.idea/
+
+# node
+/node_modules/
+/.yarn/
+/.pnp.*
+/dist/
+yarn-error.log
+npm-debug.log*
+
+# misc
+.DS_Store
+*.log
